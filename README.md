@@ -25,8 +25,10 @@ See ```predictions/``` for dumped predictions as an example.
 
 
 ## Pretrained Model
+链接：链接：https://pan.baidu.com/s/1cg95cbA0VJieQfpSdUZvFw 
+提取码：NIMA 
 
-Pretrained Model is in ckpts/epoch-82.pdiparams
+
 
 ## Annotation CSV Files
 [Train](https://drive.google.com/file/d/1IBXPXPkCiTz04wWcoReJv4Nk06VsjSkI/view?usp=sharing) [Validation](https://drive.google.com/file/d/1tJfO1zFBoQYzd8kUo5PKeHTcdzBL7115/view?usp=sharing) [Test](https://drive.google.com/file/d/105UGnkglpKuusPhJaPnFSa2JlQV3du9O/view?usp=sharing)
